@@ -1,2 +1,1 @@
-# SudokuGame
-A Sudoku Game and Solver
+A Sudoku game and solver
